@@ -1,6 +1,6 @@
 # Main idea
 
-The backend end of a simple application designed for the inventory management needs of TOT102 and Uni4Kids. It manages GET requests and the sheets table.
+The backend end of a simple application designed for the inventory management needs of TOT102. It manages GET requests and the sheets table.
 
 ## Functionalities
 
